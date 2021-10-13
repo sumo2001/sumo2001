@@ -24,9 +24,6 @@ hi, im sumo 🔮.
     <a href="https://instagram.com/iamcybermight">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
-    <a href="https://linktr.ee/iamcybermight">
-    <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />        
-  </a>&nbsp;&nbsp;
   
 </p>
 
