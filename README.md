@@ -5,7 +5,7 @@
 hi, im sumo 🔮.
 
 @@.cyber security student.@@
-+ Comptia Security+ CE
++ CompTIA's Security+ CE
 + AWS Cloud Practioner
 + OSCP [Prep]
 # 📖 recon, pentesting, blue team 
