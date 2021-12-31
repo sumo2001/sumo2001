@@ -10,7 +10,7 @@ hi, im sumo 🔮.
 + eLearnSecurity Junior Penetration Tester
 + AWS SAA-C02 [Prep]
 + OSCP [Prep]
-# 📖 recon, pentesting, blue team 
+# 📖 recon, pentesting, blue team, cloud 
 ```
 ------
 <p align='center'>
