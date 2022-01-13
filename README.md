@@ -8,7 +8,6 @@ hi, im sumo 🔮.
 + CompTIA's Security+ CE
 + AWS Cloud Practioner
 + eLearnSecurity Junior Penetration Tester
-+ AWS SAA-C02 [Prep]
 + OSCP [Prep]
 # 📖 recon, pentesting, blue team, cloud 
 ```
