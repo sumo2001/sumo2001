@@ -10,6 +10,8 @@ hi, im sumo 🔮.
 + eLearnSecurity Junior Penetration Tester
 + OSCP [Prep]
 # 📖 recon, pentesting, blue team, cloud, kuberenetes, docker
+“The only true wisdom is in knowing you know nothing.” - Socrates
+
 ```
 ------
 <p align='center'>
